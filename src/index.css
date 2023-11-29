@@ -1,1 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sarala:wght@400;700&display=swap');
+
+
+@font-face {
+    font-family: 'Benzin-Semibold';
+    src: url('./assets/Benzin-Semibold.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
